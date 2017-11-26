@@ -1,0 +1,19 @@
+body {
+    background: #e6e6e6 url('https://www.dramafever.com/st/img/actor_masthead/110_LeeMinHo_e4e8eb.jpg') no-repeat;
+    background-position: 100% 100%;
+}
+
+h1  {
+    padding: 10px 20px 20px 20px;
+    border-bottom: 1px solid #ddd;
+    color: #FCA205;
+}
+
+.red a {
+    color: red;
+}
+
+h1 a {
+    color: #FCA205;
+    font-family: 'Lobster';
+}
